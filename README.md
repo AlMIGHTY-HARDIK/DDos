@@ -56,7 +56,7 @@ Run the Hammer script using the following syntax:
 
 ```bash
 
-$ python3 hammer.py -s [IP_ADDRESS] -t [THREAD_COUNT]
+$ python3 hammer.py -s [SERVER_IP_ADDRESS] -t [THREAD_COUNT]
 ```
 ## Example Commands
 
